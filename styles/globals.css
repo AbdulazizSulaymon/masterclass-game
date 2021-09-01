@@ -1,0 +1,17 @@
+body {
+  background-image: url("/back.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  color: white !important;
+}
+
+a,
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+test {
+  color: indigo;
+}
